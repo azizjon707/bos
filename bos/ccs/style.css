@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.box1{
+    border: 1px solid black;
+    height: 500px;
+    width: 883px;
+    margin: auto;
+    margin-top: 50px;
+    background-image: url(../img/5.jpg);
+    text-decoration: none;
+    
+}
+ 
+.box1 h1{
+    color: #fff;
+    padding-left: 50px;
+    padding-top: 70px;
+    font-size: 40px;
+}
